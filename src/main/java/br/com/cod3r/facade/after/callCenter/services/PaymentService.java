@@ -1,9 +1,9 @@
-package br.com.cod3r.facade.callCenter.services;
+package br.com.cod3r.facade.after.callCenter.services;
 
 import java.util.List;
 
-import br.com.cod3r.facade.callCenter.model.Card;
-import br.com.cod3r.facade.callCenter.model.Register;
+import br.com.cod3r.facade.after.callCenter.model.Card;
+import br.com.cod3r.facade.after.callCenter.model.Register;
 
 public class PaymentService {
 	private RegisterService registerService;

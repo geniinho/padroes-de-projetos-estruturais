@@ -1,8 +1,9 @@
-package br.com.cod3r.facade.facade;
+package br.com.cod3r.facade.after.facade;
 
-import br.com.cod3r.facade.callCenter.model.Card;
-import br.com.cod3r.facade.callCenter.model.Register;
-import br.com.cod3r.facade.callCenter.services.*;
+import br.com.cod3r.facade.after.callCenter.services.*;
+import br.com.cod3r.facade.after.callCenter.model.Card;
+import br.com.cod3r.facade.after.callCenter.model.Register;
+import br.com.cod3r.facade.after.callCenter.services.*;
 
 import java.util.List;
 
